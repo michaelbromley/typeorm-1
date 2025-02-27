@@ -9,7 +9,9 @@
 * **npm-readme:** resolve missing image file ([#11290](https://github.com/typeorm/typeorm/issues/11290)) ([c554f58](https://github.com/typeorm/typeorm/commit/c554f58835430fa8e02a54f0c0ee978d272336b3))
 * **npm-readme:** resolve missing image file pt. 2 ([#11291](https://github.com/typeorm/typeorm/issues/11291)) ([981cf82](https://github.com/typeorm/typeorm/commit/981cf820ab9740ef1bef8853394750df674b5f78))
 * Update mssql allowed version to fix vulnerability. ([#10933](https://github.com/typeorm/typeorm/issues/10933)) ([3a51160](https://github.com/typeorm/typeorm/commit/3a51160818c7a2d2ff86da542f915230a6e34f6f))
-
+* Update mssql allowed version to fix vulnerability. ([#10933](https://github.com/typeorm/typeorm/issues/10933)) ([3a51160](https://github.com/typeorm/typeorm/commit/3a51160818c7a2d2ff86da542f915230a6e34f6f))
+* Fix maximum call stack error ([#10733](https://github.com/typeorm/typeorm/issues/10733)) ([7a384be0](https://github.com/typeorm/typeorm/commit/7a384be0f64630a6891528a0b2b466136752f588))
+* use sql-highlight instead of cli-highlight ([#11221](https://github.com/typeorm/typeorm/issues/11221)) ([1516cfe](https://github.com/typeorm/typeorm/commit/1516cfebdd34739f723d65030eb9540a44d786b2))
 
 ### Performance Improvements
 
